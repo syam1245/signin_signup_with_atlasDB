@@ -29,6 +29,9 @@ This project is a user authentication system built using Express.js, MongoDB, an
 4. Start the server with `npm start`.
 5. Access the application through a web browser at `http://localhost:3000`.
 
+npm install express express-session mongoose bcrypt body-parser 
+
+
 Feel free to use and modify this codebase for your own projects or as a foundation for building secure user authentication systems with Express.js and MongoDB.
 
 **Author:** Syam Pushpan
